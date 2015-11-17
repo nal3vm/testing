@@ -187,6 +187,7 @@
 		04BBB1401BF52EF8008D6C9B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = Nathan;
 				TargetAttributes = {
@@ -483,6 +484,7 @@
 				04BBB1721BF52EF8008D6C9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04BBB1731BF52EF8008D6C9B /* Build configuration list for PBXNativeTarget "ScrollViewTestTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +493,7 @@
 				04BBB1751BF52EF8008D6C9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04BBB1761BF52EF8008D6C9B /* Build configuration list for PBXNativeTarget "ScrollViewTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +502,7 @@
 				04BBB1781BF52EF8008D6C9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
